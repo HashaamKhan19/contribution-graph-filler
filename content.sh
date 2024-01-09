@@ -1,0 +1,5 @@
+echo "ovnum"
+echo "lgjlg"
+echo "nqyqg"
+echo "rqaag"
+echo "wkxji"
