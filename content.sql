@@ -1123,3 +1123,7 @@ SELECT * from owkwj;
 SELECT * from jkrhx;
 SELECT * from nkdfk;
 SELECT * from vtlkd;
+SELECT * from cfxpg;
+SELECT * from qiwsf;
+SELECT * from xvtsg;
+SELECT * from jjjba;
