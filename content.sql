@@ -489,3 +489,7 @@ SELECT * from xdeba;
 SELECT * from xudxt;
 SELECT * from qaxcj;
 SELECT * from tjvpt;
+SELECT * from frtvw;
+SELECT * from deubw;
+SELECT * from kebxc;
+SELECT * from thygl;
