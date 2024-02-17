@@ -1150,3 +1150,6 @@ SELECT * from cwnqp;
 SELECT * from oamul;
 SELECT * from rbbgi;
 SELECT * from wiasq;
+SELECT * from jyweh;
+SELECT * from hphit;
+SELECT * from wdnyx;
