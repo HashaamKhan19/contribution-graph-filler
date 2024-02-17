@@ -4768,3 +4768,6 @@ SELECT * from dxfny;
 SELECT * from rdaye;
 SELECT * from ewekf;
 SELECT * from raesd;
+SELECT * from exyqs;
+SELECT * from ngpot;
+SELECT * from nukvf;
