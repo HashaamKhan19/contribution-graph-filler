@@ -516,3 +516,6 @@ SELECT * from eeees;
 SELECT * from wtgsb;
 SELECT * from tixei;
 SELECT * from yokvu;
+SELECT * from xsqgw;
+SELECT * from mfiki;
+SELECT * from hfbjt;
