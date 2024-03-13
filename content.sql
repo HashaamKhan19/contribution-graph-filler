@@ -4971,3 +4971,8 @@ SELECT * from flscm;
 SELECT * from orghw;
 SELECT * from gdufo;
 SELECT * from mgnph;
+SELECT * from stwke;
+SELECT * from vnnqx;
+SELECT * from hnoqc;
+SELECT * from rhosx;
+SELECT * from vyjiy;
