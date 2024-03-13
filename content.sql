@@ -1353,3 +1353,8 @@ SELECT * from fgniy;
 SELECT * from cihhw;
 SELECT * from hfbeu;
 SELECT * from sdbxv;
+SELECT * from tipeh;
+SELECT * from ycwis;
+SELECT * from sixou;
+SELECT * from njloi;
+SELECT * from tgykg;
