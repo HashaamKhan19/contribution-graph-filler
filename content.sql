@@ -5206,3 +5206,4 @@ SELECT * from ptenb;
 SELECT * from tvhkm;
 SELECT * from bmkni;
 SELECT * from hvmor;
+SELECT * from eakyc;
