@@ -1588,3 +1588,4 @@ SELECT * from cofxe;
 SELECT * from besso;
 SELECT * from ixjwn;
 SELECT * from jorqu;
+SELECT * from uwpai;
