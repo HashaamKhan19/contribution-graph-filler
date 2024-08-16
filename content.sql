@@ -1904,3 +1904,6 @@ SELECT * from metto;
 SELECT * from taehu;
 SELECT * from lcjyd;
 SELECT * from qslfr;
+SELECT * from nmxnq;
+SELECT * from yadiq;
+SELECT * from yaddt;
