@@ -5523,5 +5523,5 @@ SELECT * from mjolu;
 SELECT * from cjrsl;
 SELECT * from yhdvc;
 SELECT * from kkoyp;
-SELECT * from qxnic;
-SELECT * from skvid;
+SELECT * from pkcqn;
+SELECT * from khbfb;
