@@ -5883,5 +5883,5 @@ SELECT * from spvpk;
 SELECT * from uglhh;
 SELECT * from urpsq;
 SELECT * from rlcby;
-SELECT * from gnnar;
-SELECT * from yqder;
+SELECT * from sqfyq;
+SELECT * from umhrk;
