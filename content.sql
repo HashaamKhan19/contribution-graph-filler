@@ -2265,5 +2265,5 @@ SELECT * from khxyy;
 SELECT * from lsers;
 SELECT * from fkiar;
 SELECT * from thbgm;
-SELECT * from rltjp;
-SELECT * from xcrgc;
+SELECT * from iwyto;
+SELECT * from ustpb;
