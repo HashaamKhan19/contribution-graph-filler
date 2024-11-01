@@ -2408,3 +2408,4 @@ SELECT * from fondx;
 SELECT * from lcwlm;
 SELECT * from sgrqt;
 SELECT * from dnpka;
+SELECT * from lrcbl;
