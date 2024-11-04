@@ -2409,3 +2409,4 @@ SELECT * from lcwlm;
 SELECT * from sgrqt;
 SELECT * from dnpka;
 SELECT * from lrcbl;
+SELECT * from wtjdu;
