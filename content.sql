@@ -2410,3 +2410,6 @@ SELECT * from sgrqt;
 SELECT * from dnpka;
 SELECT * from lrcbl;
 SELECT * from wtjdu;
+SELECT * from fufke;
+SELECT * from agpvd;
+SELECT * from ihltw;
