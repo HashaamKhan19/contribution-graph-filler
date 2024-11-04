@@ -2413,3 +2413,4 @@ SELECT * from wtjdu;
 SELECT * from fufke;
 SELECT * from agpvd;
 SELECT * from ihltw;
+SELECT * from dkovc;
