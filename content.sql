@@ -6034,3 +6034,5 @@ SELECT * from nvjjm;
 SELECT * from kfpwx;
 SELECT * from ugnug;
 SELECT * from tgekj;
+SELECT * from ugbvv;
+SELECT * from jicab;
