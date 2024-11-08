@@ -6032,3 +6032,5 @@ SELECT * from patgy;
 SELECT * from hiucs;
 SELECT * from nvjjm;
 SELECT * from kfpwx;
+SELECT * from ugnug;
+SELECT * from tgekj;
