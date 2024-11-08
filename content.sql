@@ -2414,3 +2414,5 @@ SELECT * from fufke;
 SELECT * from agpvd;
 SELECT * from ihltw;
 SELECT * from dkovc;
+SELECT * from egsyf;
+SELECT * from hvsyw;
