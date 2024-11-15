@@ -2418,3 +2418,6 @@ SELECT * from egsyf;
 SELECT * from hvsyw;
 SELECT * from xbxds;
 SELECT * from mryvb;
+SELECT * from bsfnr;
+SELECT * from rtiac;
+SELECT * from abpqu;
