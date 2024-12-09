@@ -2421,3 +2421,5 @@ SELECT * from mryvb;
 SELECT * from bsfnr;
 SELECT * from rtiac;
 SELECT * from abpqu;
+SELECT * from nltid;
+SELECT * from eapxj;
