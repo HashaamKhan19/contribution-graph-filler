@@ -6041,3 +6041,5 @@ SELECT * from yxdjn;
 SELECT * from iaelr;
 SELECT * from xysmh;
 SELECT * from vjojy;
+SELECT * from qfrru;
+SELECT * from bnrij;
