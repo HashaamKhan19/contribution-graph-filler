@@ -6043,3 +6043,5 @@ SELECT * from xysmh;
 SELECT * from vjojy;
 SELECT * from qfrru;
 SELECT * from bnrij;
+SELECT * from altct;
+SELECT * from kcjfd;
