@@ -2423,3 +2423,5 @@ SELECT * from rtiac;
 SELECT * from abpqu;
 SELECT * from nltid;
 SELECT * from eapxj;
+SELECT * from qmrai;
+SELECT * from wxefj;
