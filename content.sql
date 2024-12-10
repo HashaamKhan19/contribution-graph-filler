@@ -2425,3 +2425,5 @@ SELECT * from nltid;
 SELECT * from eapxj;
 SELECT * from qmrai;
 SELECT * from wxefj;
+SELECT * from djleq;
+SELECT * from egfnc;
