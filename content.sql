@@ -6046,3 +6046,4 @@ SELECT * from bnrij;
 SELECT * from altct;
 SELECT * from kcjfd;
 SELECT * from tadig;
+SELECT * from senlw;
