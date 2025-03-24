@@ -2734,4 +2734,5 @@ SELECT * from huvrh;
 SELECT * from cfxgp;
 SELECT * from okhub;
 SELECT * from lduio;
-SELECT * from cqaid;
+SELECT * from qhkhp;
+SELECT * from voisp;
