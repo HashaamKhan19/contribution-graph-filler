@@ -6361,5 +6361,3 @@ SELECT * from xhgty;
 SELECT * from vnxhy;
 SELECT * from jwnnn;
 SELECT * from kqgcp;
-SELECT * from aygep;
-SELECT * from krhcx;
