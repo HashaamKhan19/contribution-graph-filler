@@ -6366,6 +6366,3 @@ SELECT * from krhcx;
 SELECT * from dncns;
 SELECT * from plqlu;
 SELECT * from eswnu;
-SELECT * from cqpjp;
-SELECT * from bejdt;
-SELECT * from ejyjy;
