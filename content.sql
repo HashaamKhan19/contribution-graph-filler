@@ -6359,5 +6359,3 @@ SELECT * from bqnat;
 SELECT * from fqmna;
 SELECT * from xhgty;
 SELECT * from vnxhy;
-SELECT * from jwnnn;
-SELECT * from kqgcp;
