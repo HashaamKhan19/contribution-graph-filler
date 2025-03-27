@@ -2741,5 +2741,3 @@ SELECT * from hwqfa;
 SELECT * from punoj;
 SELECT * from ltkae;
 SELECT * from smpqg;
-SELECT * from wvqfc;
-SELECT * from mmgxt;
