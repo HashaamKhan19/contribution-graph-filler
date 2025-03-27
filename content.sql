@@ -6363,6 +6363,3 @@ SELECT * from jwnnn;
 SELECT * from kqgcp;
 SELECT * from aygep;
 SELECT * from krhcx;
-SELECT * from dncns;
-SELECT * from plqlu;
-SELECT * from eswnu;
