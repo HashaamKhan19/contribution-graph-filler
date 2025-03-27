@@ -2748,6 +2748,3 @@ SELECT * from knedw;
 SELECT * from ludwv;
 SELECT * from gjtpu;
 SELECT * from fcdtv;
-SELECT * from vafvr;
-SELECT * from bidhm;
-SELECT * from ybhoa;
