@@ -2745,6 +2745,3 @@ SELECT * from wvqfc;
 SELECT * from mmgxt;
 SELECT * from tsrua;
 SELECT * from knedw;
-SELECT * from ludwv;
-SELECT * from gjtpu;
-SELECT * from fcdtv;
