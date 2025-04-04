@@ -6374,3 +6374,7 @@ SELECT * from tulqw;
 SELECT * from tatte;
 SELECT * from qrhwe;
 SELECT * from nsuba;
+SELECT * from sbmyl;
+SELECT * from obruh;
+SELECT * from npboe;
+SELECT * from wljxa;
