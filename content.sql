@@ -2756,3 +2756,7 @@ SELECT * from rdwpg;
 SELECT * from cpebn;
 SELECT * from wexls;
 SELECT * from erqat;
+SELECT * from xkrnv;
+SELECT * from rycng;
+SELECT * from triee;
+SELECT * from fjiuw;
