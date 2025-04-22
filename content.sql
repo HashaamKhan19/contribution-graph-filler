@@ -6378,3 +6378,5 @@ SELECT * from sbmyl;
 SELECT * from obruh;
 SELECT * from npboe;
 SELECT * from wljxa;
+SELECT * from leecb;
+SELECT * from qcrmf;
