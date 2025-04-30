@@ -2893,3 +2893,4 @@ SELECT * from isvyr;
 SELECT * from pcotr;
 SELECT * from snwhu;
 SELECT * from xyvmi;
+SELECT * from myali;
