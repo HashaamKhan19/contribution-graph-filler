@@ -2936,3 +2936,4 @@ SELECT * from mejvu;
 SELECT * from cvnxh;
 SELECT * from xnobd;
 SELECT * from qmerq;
+SELECT * from lsock;
