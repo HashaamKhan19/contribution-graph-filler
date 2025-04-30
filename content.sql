@@ -6554,3 +6554,4 @@ SELECT * from ejvny;
 SELECT * from buoxk;
 SELECT * from mxqhg;
 SELECT * from jkuku;
+SELECT * from luoft;
