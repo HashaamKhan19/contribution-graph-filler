@@ -6511,3 +6511,4 @@ SELECT * from nsmaa;
 SELECT * from oiwkb;
 SELECT * from suyeu;
 SELECT * from luyyr;
+SELECT * from nabop;
