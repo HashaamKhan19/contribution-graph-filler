@@ -6617,3 +6617,7 @@ SELECT * from necce;
 SELECT * from gbhbl;
 SELECT * from fqxdb;
 SELECT * from dnfwp;
+SELECT * from gguql;
+SELECT * from itiyq;
+SELECT * from wurvy;
+SELECT * from fwvab;
