@@ -3021,3 +3021,7 @@ SELECT * from gllbb;
 SELECT * from qkpen;
 SELECT * from fknqr;
 SELECT * from qpiuu;
+SELECT * from coprt;
+SELECT * from pspwg;
+SELECT * from elyxy;
+SELECT * from mbkgg;
