@@ -2999,3 +2999,7 @@ SELECT * from kbymd;
 SELECT * from suusy;
 SELECT * from mgtgd;
 SELECT * from yvtsd;
+SELECT * from nsghl;
+SELECT * from vuvai;
+SELECT * from aixxe;
+SELECT * from sqslu;
