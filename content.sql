@@ -7742,3 +7742,6 @@ SELECT * from vonil;
 SELECT * from dtmiq;
 SELECT * from rbsjg;
 SELECT * from iyknn;
+SELECT * from bbbka;
+SELECT * from caicd;
+SELECT * from ogafg;
