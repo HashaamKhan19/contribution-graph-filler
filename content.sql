@@ -4124,3 +4124,6 @@ SELECT * from vvutc;
 SELECT * from fahgy;
 SELECT * from fyaic;
 SELECT * from sfncm;
+SELECT * from bewvs;
+SELECT * from hmimj;
+SELECT * from hqxmq;
