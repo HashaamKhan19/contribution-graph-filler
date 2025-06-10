@@ -7745,3 +7745,6 @@ SELECT * from iyknn;
 SELECT * from bbbka;
 SELECT * from caicd;
 SELECT * from ogafg;
+SELECT * from wkthk;
+SELECT * from fikuk;
+SELECT * from mjlct;
