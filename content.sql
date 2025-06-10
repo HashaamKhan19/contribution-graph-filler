@@ -4127,3 +4127,6 @@ SELECT * from sfncm;
 SELECT * from bewvs;
 SELECT * from hmimj;
 SELECT * from hqxmq;
+SELECT * from afnuu;
+SELECT * from dkgcs;
+SELECT * from alkss;
