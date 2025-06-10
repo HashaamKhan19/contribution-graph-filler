@@ -4130,3 +4130,6 @@ SELECT * from hqxmq;
 SELECT * from afnuu;
 SELECT * from dkgcs;
 SELECT * from alkss;
+SELECT * from sglah;
+SELECT * from gahur;
+SELECT * from afkkc;
