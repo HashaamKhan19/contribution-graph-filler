@@ -7748,3 +7748,6 @@ SELECT * from ogafg;
 SELECT * from wkthk;
 SELECT * from fikuk;
 SELECT * from mjlct;
+SELECT * from puixg;
+SELECT * from ctonl;
+SELECT * from wykwh;
