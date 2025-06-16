@@ -4133,3 +4133,5 @@ SELECT * from alkss;
 SELECT * from sglah;
 SELECT * from gahur;
 SELECT * from afkkc;
+SELECT * from diccd;
+SELECT * from bdjtu;
