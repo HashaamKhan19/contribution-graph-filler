@@ -7753,3 +7753,5 @@ SELECT * from ctonl;
 SELECT * from wykwh;
 SELECT * from iuqfa;
 SELECT * from qbqyw;
+SELECT * from tvkss;
+SELECT * from ppdak;
