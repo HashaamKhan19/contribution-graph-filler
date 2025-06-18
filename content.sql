@@ -4135,3 +4135,5 @@ SELECT * from gahur;
 SELECT * from afkkc;
 SELECT * from diccd;
 SELECT * from bdjtu;
+SELECT * from doyqm;
+SELECT * from mntpb;
