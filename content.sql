@@ -4137,3 +4137,5 @@ SELECT * from diccd;
 SELECT * from bdjtu;
 SELECT * from doyqm;
 SELECT * from mntpb;
+SELECT * from fxvio;
+SELECT * from iaytt;
