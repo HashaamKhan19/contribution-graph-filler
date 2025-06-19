@@ -4139,3 +4139,4 @@ SELECT * from doyqm;
 SELECT * from mntpb;
 SELECT * from fxvio;
 SELECT * from iaytt;
+SELECT * from uarca;
