@@ -4240,3 +4240,5 @@ SELECT * from eyvnj;
 SELECT * from jexfw;
 SELECT * from hkeye;
 SELECT * from pmliy;
+SELECT * from hdjyu;
+SELECT * from gjokj;
