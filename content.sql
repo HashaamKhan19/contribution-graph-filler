@@ -7858,3 +7858,5 @@ SELECT * from lafvy;
 SELECT * from vtnmh;
 SELECT * from ofcfr;
 SELECT * from iexpm;
+SELECT * from nakfb;
+SELECT * from qetvp;
