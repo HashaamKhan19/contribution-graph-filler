@@ -7860,3 +7860,5 @@ SELECT * from ofcfr;
 SELECT * from iexpm;
 SELECT * from nakfb;
 SELECT * from qetvp;
+SELECT * from qugjv;
+SELECT * from cljdx;
